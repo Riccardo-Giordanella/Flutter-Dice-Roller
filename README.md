@@ -1,6 +1,6 @@
 # 🎲 Dice Roller App
 
-<details open>
+<details>
 <summary> 🇮🇹 Italiano</summary>
 
 Un'applicazione mobile sviluppata in **Flutter** che simula il lancio di un dado a sei facce.  
